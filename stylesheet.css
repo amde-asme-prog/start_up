@@ -3,6 +3,9 @@
     margin:0;
     box-sizing: border-box;
 }
+html{
+    font-size: 48px;
+}
 p{
     font-size:25px;
 }
